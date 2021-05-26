@@ -31,7 +31,7 @@ public class HomeWorkApp {
         }
     }
 
-    public static void compareNumbers(int a, int b){
-
+    public static void compareNumbers(int a, int b) {
+//test
     }
 }
